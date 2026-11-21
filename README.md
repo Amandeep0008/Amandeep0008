@@ -1,5 +1,7 @@
 # Hi, I'm Amandeep Singh 👋
 
+Portfolio:https://amandeep-singh-portfolio7.vercel.app/
+
 B.Tech IT graduate from Kolkata building full-stack JavaScript applications with the MERN stack. Currently strengthening my DSA and backend engineering fundamentals, and open to entry-level web developer roles or internships.
 
 ## 🛠️ Tech Stack
