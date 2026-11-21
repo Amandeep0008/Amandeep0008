@@ -13,9 +13,9 @@ B.Tech IT graduate from Kolkata building full-stack JavaScript applications with
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **[Job Application Tracker](https://github.com/<your-username>/<job-tracker-repo>)** | Full-stack tracker with JWT auth, 6-stage pipeline CRUD, and a MongoDB aggregation stats dashboard. | React, Node.js, Express, MongoDB, JWT | [Live App](https://job-application-tracker-frontend-uu66.onrender.com) |
-| **[CineBook](https://github.com/<your-username>/<cinebook-repo>)** | Interactive movie seat-booking engine with dynamic tiered pricing, checkout validation, and a rule-based chatbot. | HTML5, CSS3, Vanilla JS, LocalStorage | [Live App](https://cinebook-booking-engine.vercel.app) |
-| **[WeatherNow](https://github.com/<your-username>/<weathernow-repo>)** | Real-time weather lookup with debounced keyboard-navigable autocomplete and weather-adaptive UI themes. | HTML5, CSS3, Vanilla JS, Fetch API | [Live App](https://weather-now-mdfz.vercel.app) |
+| **[Job Application Tracker](https://github.com/Amandeep0008/job-application-tracker)** | Full-stack tracker with JWT auth, 6-stage pipeline CRUD, and a MongoDB aggregation stats dashboard. | React, Node.js, Express, MongoDB, JWT | [Live App](https://job-application-tracker-frontend-uu66.onrender.com) |
+| **[CineBook](https://github.com/Amandeep0008/cinebook-booking-engine)** | Interactive movie seat-booking engine with dynamic tiered pricing, checkout validation, and a rule-based chatbot. | HTML5, CSS3, Vanilla JS, LocalStorage | [Live App](https://cinebook-booking-engine.vercel.app) |
+| **[WeatherNow](https://github.com/Amandeep0008/weather_Now)** | Real-time weather lookup with debounced keyboard-navigable autocomplete and weather-adaptive UI themes. | HTML5, CSS3, Vanilla JS, Fetch API | [Live App](https://weather-now-mdfz.vercel.app) |
 
 ## 📫 Connect With Me
 
